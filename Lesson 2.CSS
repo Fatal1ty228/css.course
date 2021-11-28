@@ -1,0 +1,42 @@
+
+.box{
+   height: 100px;
+    width: 500px;
+border: 2px solid black;
+position: relative;
+}
+
+
+
+.box-list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap ;
+
+}
+
+
+
+.box-red{
+    background-color: red;
+   
+}
+
+
+.box-green{
+    background-color: green;
+    
+}
+
+.box-blue{
+    background-color: blue;
+   
+}
+
+.box-orange{
+    background-color: orange;
+ 
+}
+ 
+
+
